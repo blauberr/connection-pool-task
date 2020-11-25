@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration  >
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d %-5p [%t] %C{2} (%F:%L) - %m%n"/>
+        </Console>
+        <File name="logtxt" fileName="log.txt" append="true">
+            <PatternLayout pattern="%d %-5p [%t] %C{2} (%F:%L) - %m%n"/>
+        </File>
+        <File name="logjson" fileName="log\app.json" append="true">
+            <JsonTemplateLayout eventTemplateUri="classpath:LogTemplate.json"/>
+        </File>
+        <File name="log" fileName="log.log" append="true">
+            <PatternLayout pattern="%d %-5p [%t] %C{2} (%F:%L) - %m%n"/>
+        </File>
+    </Appenders>
+    <Loggers>
+        <Root level="debug">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="logtxt"/>
+            <AppenderRef ref="log"/>
+            <AppenderRef ref="logjson"/>
+        </Root>
+    </Loggers>
+</Configuration>
