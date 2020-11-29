@@ -26,7 +26,7 @@ public class ConnectionPoolTest {
         ConnectionPool connectionPool = new ConnectionPool(TEST_URL, TEST_USER, TEST_PASSWORD);
 
         // consume all connections
-        for (int i = 0; i <= POOL_SIZE; i++) {
+        for (int i = 0; i < POOL_SIZE; i++) {
             connectionPool.getConnection();
         }
 
@@ -36,8 +36,8 @@ public class ConnectionPoolTest {
 
     @Test
     public void testConnection() {
-        ConnectionPool connectionPool = new ConnectionPool("jdbc:postgresql://localhost:5432/postgres", "postgres", "admin");
-        ConnectionPool connectionPool2 = new ConnectionPool("jdbc:oracle:thin:@localhost:1521:XE", "TICKETSYSTEM", "admin");
+        ConnectionPool connectionPool = new ConnectionPool(TEST_URL, TEST_USER, TEST_PASSWORD, POOL_SIZE);
+        ConnectionPool connectionPool2 = new ConnectionPool(TEST_URL, TEST_USER, TEST_PASSWORD, POOL_SIZE);
 
         Connection connection = connectionPool.getConnection();
         Connection connection2 = connectionPool2.getConnection();

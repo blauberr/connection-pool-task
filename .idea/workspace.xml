@@ -2,40 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cfcc549-16c4-4b15-b3d8-2d21d40c5add" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/log/log.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/log.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fe2bf0fe-1ddf-4852-bc70-5dccf3fc5568/storage_v2/_src_/schema/PUBLIC.aaZQjQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/fe2bf0fe-1ddf-4852-bc70-5dccf3fc5568/storage_v2/_src_/schema/PUBLIC.aaZQjQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fe2bf0fe-1ddf-4852-bc70-5dccf3fc5568/storage_v2/_src_/schema/TICKETSYSTEM.O0yySA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/fe2bf0fe-1ddf-4852-bc70-5dccf3fc5568/storage_v2/_src_/schema/TICKETSYSTEM.O0yySA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fe2bf0fe-1ddf-4852-bc70-5dccf3fc5568/storage_v2/_src_/schema/TICKETSYSTEM.O0yySA.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/fe2bf0fe-1ddf-4852-bc70-5dccf3fc5568/storage_v2/_src_/schema/TICKETSYSTEM.O0yySA.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/zentitytask1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose2.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logstash/logstash.conf" beforeDir="false" afterPath="$PROJECT_DIR$/logstash/logstash.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dbmanagement/DbConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dbmanagement/DbConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/logsearch/ElasticSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/confg.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ConnectionManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ConnectionManagerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ConnectionPoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ConnectionPoolTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ElasticTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LogTemplate.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/confg.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dbmanagement/ConnectionManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dbmanagement/ConnectionManager.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/dbmanagement/ConnectionPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dbmanagement/ConnectionPool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dbmanagement/DbConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dbmanagement/DbConstants.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/logsearch/ElasticSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ConnectionManagerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ConnectionManagerTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/ConnectionPoolTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ConnectionPoolTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ElasticTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -62,41 +40,11 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
-        <item name="access methods" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
-        <item name="extensions" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/DbConstants.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -109,8 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+            <state relative-caret-position="136">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ConnectionManagerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="52" column="38" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
+            <state relative-caret-position="170">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,17 +81,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/logstash/logstash.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            <state relative-caret-position="34">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
-              <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+            <state relative-caret-position="289">
+              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -151,13 +99,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
+            <state relative-caret-position="1105">
               <caret line="99" selection-start-line="99" selection-end-line="99" />
-              <folding>
-                <element signature="e#3981#3982#0" expanded="true" />
-                <element signature="e#11600#11803#0" expanded="true" />
-                <element signature="e#11802#11803#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -174,42 +117,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/LogTemplate.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/log/log.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8904" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1-sources.jar!/org/junit/runners/ParentRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="371" selection-start-line="371" selection-end-line="371" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log/log.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1026">
-              <caret line="464" column="85" selection-start-line="464" selection-start-column="85" selection-end-line="464" selection-end-column="85" />
+            <state relative-caret-position="4301">
+              <caret line="307" selection-start-line="307" selection-end-line="307" />
             </state>
           </provider>
         </entry>
@@ -217,11 +140,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ConnectionPoolTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -236,19 +165,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/zentitytask1.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="71" column="37" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
+            <state relative-caret-position="153">
+              <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zentitytask1.iml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionPool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-510">
-              <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+            <state relative-caret-position="901">
+              <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1394">
+              <caret line="89" column="49" selection-start-line="89" selection-start-column="49" selection-end-line="89" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/zentitytask1.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1224">
+              <caret line="72" column="9" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -307,13 +260,14 @@
         <option value="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionPool.java" />
         <option value="$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionManager.java" />
         <option value="$PROJECT_DIR$/src/test/java/ConnectionManagerTest.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/901d3e7a-1b11-4484-a8d9-52bc73538c8a/console.sql" />
         <option value="$PROJECT_DIR$/src/main/java/dbmanagement/DbConstants.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ConnectionPoolTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/logstash/logstash.conf" />
+        <option value="$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionPool.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ConnectionPoolTest.java" />
       </list>
     </option>
   </component>
@@ -424,10 +378,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="zentitytask1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -439,7 +389,7 @@
     <property name="DatabaseDriversLRU" value="sqlserver&#10;oracle&#10;postgresql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606675056551" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606741828073" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/zentitytask2" />
@@ -468,7 +418,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ConnectionPoolTest.testConnection">
+  <component name="RunManager" selected="JUnit.ConnectionPoolTest.getConnectionsThrowsExceptionWhenOutOfConnections">
     <configuration name="All in zentitytask1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="zentitytask1" />
       <option name="PACKAGE_NAME" value="" />
@@ -519,10 +469,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ConnectionPoolTest.getConnectionsThrowsExceptionWhenOutOfConnections" />
         <item itemvalue="JUnit.ConnectionPoolTest.testConnection" />
         <item itemvalue="JUnit.All in zentitytask1" />
         <item itemvalue="JUnit.ConnectionPoolTest.test" />
-        <item itemvalue="JUnit.ConnectionPoolTest.getConnectionsThrowsExceptionWhenOutOfConnections" />
         <item itemvalue="JUnit.ConnectionManagerTest.verifySwitchesBackToPrimaryPool" />
       </list>
     </recent_temporary>
@@ -552,16 +502,11 @@
       <workItem from="1606309732475" duration="6837000" />
       <workItem from="1606385069509" duration="2090000" />
       <workItem from="1606563559197" duration="31531000" />
+      <workItem from="1606741901972" duration="621000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ConnectionManagerTest_verifySwitchesToSecondadryPool - 2020.11.29 at 15h 21m 15s.xml">
-      <configuration name="ConnectionManagerTest.verifySwitchesToSecondadryPool" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ConnectionManagerTest_verifySwitchesToSecondadryPool - 2020.11.29 at 15h 21m 38s.xml">
-      <configuration name="ConnectionManagerTest.verifySwitchesToSecondadryPool" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ConnectionManagerTest_verifySwitchesToSecondadryPool - 2020.11.29 at 15h 21m 47s.xml">
       <configuration name="ConnectionManagerTest.verifySwitchesToSecondadryPool" configurationId="JUnit" />
     </history-entry>
@@ -586,14 +531,20 @@
     <history-entry file="ConnectionPoolTest_testConnection - 2020.11.29 at 17h 49m 35s.xml">
       <configuration name="ConnectionPoolTest.testConnection" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ConnectionPoolTest_getConnectionsThrowsExceptionWhenOutOfConnections - 2020.11.30 at 14h 06m 43s.xml">
+      <configuration name="ConnectionPoolTest.getConnectionsThrowsExceptionWhenOutOfConnections" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConnectionPoolTest_getConnectionsThrowsExceptionWhenOutOfConnections - 2020.11.30 at 14h 07m 12s.xml">
+      <configuration name="ConnectionPoolTest.getConnectionsThrowsExceptionWhenOutOfConnections" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125314000" />
+    <option name="totallyTimeSpent" value="126386000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17430703" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17910448" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -609,12 +560,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Console" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.43770313" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32936078" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32995737" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -624,6 +574,7 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" visible="true" weight="0.19722815" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -677,7 +628,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/ConnectionPoolTest.java</url>
           <line>37</line>
-          <properties class="ConnectionPoolTest" method="test">
+          <properties class="ConnectionPoolTest" method="testConnection">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="41" />
@@ -745,20 +696,6 @@ expect(DriverManager.getConnection(&quot;jdbc:h2:mem:test&quot;, &quot;test&quot
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="114" column="51" selection-start-line="114" selection-start-column="51" selection-end-line="114" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.10.0/elasticsearch-rest-client-7.10.0-sources.jar!/org/elasticsearch/client/RestClientBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="181" column="5" lean-forward="true" selection-start-line="181" selection-start-column="5" selection-end-line="181" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/awt/Component.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
@@ -773,13 +710,7 @@ expect(DriverManager.getConnection(&quot;jdbc:h2:mem:test&quot;, &quot;test&quot
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ElasticTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ElasticTest.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/java/awt/List.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1036,85 +967,11 @@ expect(DriverManager.getConnection(&quot;jdbc:h2:mem:test&quot;, &quot;test&quot
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="99" selection-start-line="99" selection-end-line="99" />
-          <folding>
-            <element signature="e#3981#3982#0" expanded="true" />
-            <element signature="e#11600#11803#0" expanded="true" />
-            <element signature="e#11802#11803#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1-sources.jar!/org/junit/runners/ParentRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="371" selection-start-line="371" selection-end-line="371" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose2.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/confg.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/exceptions/OutOfConnectionsException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/log.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1026">
-          <caret line="464" column="85" selection-start-line="464" selection-start-column="85" selection-end-line="464" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logstash/logstash.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/log.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8904" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zentitytask1.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510">
-          <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose2.yml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/confg.properties" />
+    <entry file="file://$PROJECT_DIR$/log.txt" />
+    <entry file="file://$PROJECT_DIR$/log/log.json" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
@@ -1122,13 +979,7 @@ expect(DriverManager.getConnection(&quot;jdbc:h2:mem:test&quot;, &quot;test&quot
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/LogTemplate.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/LogTemplate.json" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/Mockito.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1143,13 +994,7 @@ expect(DriverManager.getConnection(&quot;jdbc:h2:mem:test&quot;, &quot;test&quot
         </state>
       </provider>
     </entry>
-    <entry file="das://901d3e7a-1b11-4484-a8d9-52bc73538c8a/database/postgres/schema/public/table/dogs">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://901d3e7a-1b11-4484-a8d9-52bc73538c8a/database/postgres/schema/public/table/dogs" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/901d3e7a-1b11-4484-a8d9-52bc73538c8a/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1157,34 +1002,19 @@ expect(DriverManager.getConnection(&quot;jdbc:h2:mem:test&quot;, &quot;test&quot
         </state>
       </provider>
     </entry>
-    <entry file="das://901d3e7a-1b11-4484-a8d9-52bc73538c8a/database/postgres/extension/plpgsql">
+    <entry file="das://901d3e7a-1b11-4484-a8d9-52bc73538c8a/database/postgres/extension/plpgsql" />
+    <entry file="das://901d3e7a-1b11-4484-a8d9-52bc73538c8a/database/postgres/extension/adminpack" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/DbConstants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="das://901d3e7a-1b11-4484-a8d9-52bc73538c8a/database/postgres/extension/adminpack">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="89" column="49" selection-start-line="89" selection-start-column="49" selection-end-line="89" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="98" column="16" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="16" />
+        <state relative-caret-position="136">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1193,52 +1023,111 @@ expect(DriverManager.getConnection(&quot;jdbc:h2:mem:test&quot;, &quot;test&quot
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ConnectionManagerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="52" column="38" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/DbConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ConnectionPoolTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+    <entry file="file://$PROJECT_DIR$/logstash/logstash.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        <state relative-caret-position="289">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/log.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4301">
+          <caret line="307" selection-start-line="307" selection-end-line="307" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ConnectionPoolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/exceptions/OutOfConnectionsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zentitytask1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="89" column="49" selection-start-line="89" selection-start-column="49" selection-end-line="89" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/zentitytask1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="9" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
