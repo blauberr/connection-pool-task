@@ -1,40 +1,51 @@
 package dbmanagement;
 
 import dbmanagement.exceptions.ConnectionIsInvalidException;
-//import org.slf4j.Logger;
-//import org.slf4j.LoggerFactory;
-
+import dbmanagement.exceptions.ConnectionsPrepareUnsuccessfulException;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+
 import java.sql.Connection;
 import java.sql.SQLException;
 import static dbmanagement.DbConstants.*;
 
 public class ConnectionManager {
+
     private static ConnectionManager connectionManagerSingleton = null;
+    private static final Logger log = LogManager.getLogger(ConnectionManager.class);
 
     private String primaryUrl = PRIMARY_URL;
-    private String secondaryUrl = SECONDARY_URL;
     private String primaryUser = PRIMARY_USER;
     private String primaryPass = PRIMARY_PASS;
+    private String secondaryUrl = SECONDARY_URL;
     private String secondaryUser = SECONDARY_USER;
     private String secondaryPass = SECONDARY_PASS;
 
     private ConnectionPool activeConnectionPool;
-    private final ConnectionPool primaryConnectionPool;
-    private final ConnectionPool secondaryConnectionPool;
+    private ConnectionPool primaryConnectionPool;
+    private ConnectionPool secondaryConnectionPool;
 
     private boolean isFailoverMode = false;
 
-    private static final Logger logger = LogManager.getLogger(ConnectionManager.class);
-
-    public static ConnectionManager getInstance() {
+    public synchronized static ConnectionManager getInstance() {
         if (connectionManagerSingleton == null) {
-            synchronized (ConnectionManager.class) {
-                connectionManagerSingleton = new ConnectionManager();
-            }
+            connectionManagerSingleton = new ConnectionManager();
         }
         return connectionManagerSingleton;
+    }
+
+    public synchronized void setPrimaryPool(ConnectionPool primaryPool) {
+        this.primaryConnectionPool = primaryPool;
+        if (!isFailoverMode) {
+            activeConnectionPool = primaryConnectionPool;
+        }
+    }
+
+    public synchronized void setSecondaryPool(ConnectionPool secondaryPool) {
+        this.secondaryConnectionPool = secondaryPool;
+        if (isFailoverMode) {
+            activeConnectionPool = secondaryConnectionPool;
+        }
     }
 
     private ConnectionManager() {
@@ -46,39 +57,61 @@ public class ConnectionManager {
     public Connection getConnection() {
 
         if (isFailoverMode) {
-            checkPrimaryPoolIsValid();
+            checkPrimaryPool();
         }
 
+        Connection connection = null;
         try {
-            return activeConnectionPool.getConnection();
+            connection = activeConnectionPool.getConnection();
+        } catch (ConnectionIsInvalidException e) {
+            log.warn("Active connection pool is invalid");
         }
-        catch (ConnectionIsInvalidException e) {
+
+        if (connection != null) {
+            return connection;
+        }
+        else {
             isFailoverMode = true;
-            logger.warn("Primary connection pool not available, failover mode activated");
             activeConnectionPool = secondaryConnectionPool;
-            return secondaryConnectionPool.getConnection();
+            log.warn("Failover mode is active, switching to secondary connection pool");
+            try {
+                connection = activeConnectionPool.getConnection();
+            } catch (ConnectionIsInvalidException e) {
+                log.error("Both databases are down");
+                throw e;
+            }
+            return connection;
         }
     }
 
     public void returnConnectionToConnectionPool(Connection connection) throws SQLException {
-
-        if (connection.getMetaData().getURL().equals(primaryUrl)) {
-            primaryConnectionPool.returnConnection(connection);
-            logger.error("Connection successfully returned to primary connection pool");
-        }
-
-        if (connection.getMetaData().getURL().equals(secondaryUrl)) {
-            secondaryConnectionPool.returnConnection(connection);
-            logger.info("Connection successfully returned to primary connection pool");
+        try {
+            if (connection.getMetaData().getURL().equals(primaryUrl)) {
+                primaryConnectionPool.returnConnection(connection);
+                log.info("Connection successfully returned to primary connection pool");
+            }
+            else if (connection.getMetaData().getURL().equals(secondaryUrl)) {
+                secondaryConnectionPool.returnConnection(connection);
+                log.info("Connection successfully returned to primary connection pool");
+            }
+            else {
+                throw new IllegalStateException("Unknown URL");
+            }
+        } catch (SQLException e) {
+            log.error("Failed to return connection", e);
+            throw e;
         }
     }
 
-    private void checkPrimaryPoolIsValid() {
-        if (primaryConnectionPool.isValid()) {
+    private void checkPrimaryPool() {
+        try {
+            primaryConnectionPool.prepareConnections();
             isFailoverMode = false;
-            logger.info("Primary connection pool is available, failover mode deactivated");
             activeConnectionPool = primaryConnectionPool;
+
+            log.info("Primary pool is active again, failover mode deactivated");
+        } catch (ConnectionsPrepareUnsuccessfulException e) {
+            log.warn("Primary pool is still down");
         }
     }
-
 }

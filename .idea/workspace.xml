@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionManager.java" line="83" mnemonic="9" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cfcc549-16c4-4b15-b3d8-2d21d40c5add" name="Default Changelist" comment="" />
+    <list default="true" id="2cfcc549-16c4-4b15-b3d8-2d21d40c5add" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/log/log.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fe2bf0fe-1ddf-4852-bc70-5dccf3fc5568/storage_v2/_src_/schema/PUBLIC.aaZQjQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/fe2bf0fe-1ddf-4852-bc70-5dccf3fc5568/storage_v2/_src_/schema/PUBLIC.aaZQjQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fe2bf0fe-1ddf-4852-bc70-5dccf3fc5568/storage_v2/_src_/schema/TICKETSYSTEM.O0yySA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/fe2bf0fe-1ddf-4852-bc70-5dccf3fc5568/storage_v2/_src_/schema/TICKETSYSTEM.O0yySA.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fe2bf0fe-1ddf-4852-bc70-5dccf3fc5568/storage_v2/_src_/schema/TICKETSYSTEM.O0yySA.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/fe2bf0fe-1ddf-4852-bc70-5dccf3fc5568/storage_v2/_src_/schema/TICKETSYSTEM.O0yySA.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose2.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dbmanagement/DbConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dbmanagement/DbConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logsearch/ElasticSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/confg.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ConnectionManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ConnectionManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ConnectionPoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ConnectionPoolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ElasticTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/confg.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dbmanagement/ConnectionManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dbmanagement/ConnectionManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dbmanagement/ConnectionPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dbmanagement/ConnectionPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dbmanagement/DbConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dbmanagement/DbConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logsearch/ElasticSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ConnectionManagerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ConnectionManagerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ConnectionPoolTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ConnectionPoolTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ElasticTest.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,6 +44,12 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/zentitytask1$Main.ic" NAME="Main Coverage Results" MODIFIED="1606654603673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -29,238 +67,193 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="access methods" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="extensions" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.59302324">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="462">
-                  <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/java/ElasticTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="68">
-                  <caret line="13" selection-start-line="13" selection-end-line="13" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/java/ConnectionManagerTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="289">
-                  <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/java/ConnectionPoolTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="170">
-                  <caret line="10" column="44" selection-start-column="7" selection-end-line="11" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.10.0/elasticsearch-rest-client-7.10.0-sources.jar!/org/elasticsearch/client/RestClient.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="3026">
-                  <caret line="259" column="36" selection-start-line="259" selection-start-column="36" selection-end-line="259" selection-end-column="36" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.10.0/elasticsearch-rest-client-7.10.0-sources.jar!/org/elasticsearch/client/Request.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionManager.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="358">
-                  <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="170">
-                  <caret line="10" column="46" lean-forward="true" selection-end-line="24" selection-end-column="16" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.properties">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="34">
-                  <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/log.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-904" />
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/log.log">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-931" />
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionPool.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="205">
-                  <caret line="63" selection-start-line="63" selection-end-line="63" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#922#923#0" expanded="true" />
-                    <element signature="e#978#979#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar!/org/apache/logging/log4j/spi/AbstractLogger.class">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="213">
-                  <caret line="941" selection-start-line="941" selection-end-line="941" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/awt/List.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-7">
-                  <caret line="108" column="13" selection-start-line="108" selection-start-column="13" selection-end-line="108" selection-end-column="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/List.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Collection.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="2873">
-                  <caret line="194" column="22" selection-start-line="194" selection-start-column="22" selection-end-line="194" selection-end-column="22" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pom.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1581">
-                  <caret line="93" selection-start-line="93" selection-end-line="93" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/zentitytask1.iml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="493">
-                  <caret line="29" column="66" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/resources/confg.properties">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="9" selection-start-line="9" selection-end-line="9" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/DbConstants.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="9" column="59" lean-forward="true" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1-sources.jar!/org/junit/Assert.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="11798">
-                  <caret line="721" column="23" selection-start-line="721" selection-start-column="23" selection-end-line="721" selection-end-column="23" />
-                  <folding>
-                    <element signature="e#27619#27620#0" expanded="true" />
-                    <element signature="e#27662#27663#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/DbConstants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ConnectionManagerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="52" column="38" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logstash/logstash.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="535">
+              <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="99" selection-start-line="99" selection-end-line="99" />
+              <folding>
+                <element signature="e#3981#3982#0" expanded="true" />
+                <element signature="e#11600#11803#0" expanded="true" />
+                <element signature="e#11802#11803#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/LogTemplate.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log/log.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8904" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1-sources.jar!/org/junit/runners/ParentRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="371" selection-start-line="371" selection-end-line="371" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log/log.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1026">
+              <caret line="464" column="85" selection-start-line="464" selection-start-column="85" selection-end-line="464" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ConnectionPoolTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/exceptions/OutOfConnectionsException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="71" column="37" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zentitytask1.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-510">
+              <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -283,6 +276,9 @@
       <find>for</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -297,7 +293,6 @@
         <option value="$PROJECT_DIR$/src/test/resources/META-INF/persistence.xml" />
         <option value="$PROJECT_DIR$/src/main/java/exceptions/ConnectionsPrepareUnsuccessfulException.java" />
         <option value="$PROJECT_DIR$/src/main/resources/confg.properties" />
-        <option value="$PROJECT_DIR$/src/test/java/ConnectionPoolTest.java" />
         <option value="$PROJECT_DIR$/logback.xml" />
         <option value="$PROJECT_DIR$/log4j2.xml" />
         <option value="$PROJECT_DIR$/src/main/java/ConnectionManager.java" />
@@ -305,17 +300,20 @@
         <option value="$PROJECT_DIR$/src/main/java/ConnectionPool.java" />
         <option value="$PROJECT_DIR$/src/main/resources/LogstashJsonEventLayoutV1.json" />
         <option value="$PROJECT_DIR$/src/main/java/logsearch/ElasticSearch.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/ElasticTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionPool.java" />
         <option value="$PROJECT_DIR$/src/main/java/dbmanagement/DatabaseConfig.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ConnectionManagerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionManager.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dbmanagement/DbConstants.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j2.properties" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/dbmanagement/exceptions/OutOfConnectionsException.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionManager.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ConnectionManagerTest.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/901d3e7a-1b11-4484-a8d9-52bc73538c8a/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/dbmanagement/DbConstants.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ConnectionPoolTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
       </list>
     </option>
   </component>
@@ -343,16 +341,17 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="982" />
-    <option name="y" value="42" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="389" />
+    <option name="width" value="1539" />
+    <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -362,28 +361,87 @@
             </path>
             <path>
               <item name="zentitytask1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="zentitytask1" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zentitytask1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zentitytask1" type="462c0819:PsiDirectoryNode" />
+              <item name="logstash" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zentitytask1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zentitytask1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zentitytask1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zentitytask1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zentitytask1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zentitytask1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zentitytask1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zentitytask1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dbmanagement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zentitytask1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zentitytask1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dbmanagement" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zentitytask1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zentitytask1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zentitytask1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zentitytask1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zentitytask1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zentitytask1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zentitytask1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="sqlserver&#10;postgresql&#10;oracle" />
+    <property name="DatabaseDriversLRU" value="sqlserver&#10;oracle&#10;postgresql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606323603171" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606675056551" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML" />
-    <property name="database.console.LAST_STATE" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/zentitytask2" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -391,11 +449,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jelizaveta.Zimina\Downloads\pda-master\zentitytask1\log" />
       <recent name="C:\Users\Jelizaveta.Zimina\Downloads\pda-master\zentitytask1\src\main\resources" />
       <recent name="C:\Users\Jelizaveta.Zimina\Downloads\pda-master\zentitytask1\src\main\java" />
       <recent name="C:\Users\Jelizaveta.Zimina\Downloads\pda-master\zentitytask1\src\main" />
       <recent name="C:\Users\Jelizaveta.Zimina\Downloads\pda-master\zentitytask1\src" />
-      <recent name="C:\Users\Jelizaveta.Zimina\Downloads\pda-master\zentitytask1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -410,29 +468,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="JUnit.ConnectionPoolTest.testConnection">
+    <configuration name="All in zentitytask1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="zentitytask1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConnectionManagerTest.returnConnectionsToThePool" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConnectionManagerTest.verifySwitchesBackToPrimaryPool" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="zentitytask1" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ConnectionManagerTest" />
-      <option name="METHOD_NAME" value="returnConnectionsToThePool" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConnectionPoolTest.getConnectionThrowsConnectionIsInvalidException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="zentitytask1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ConnectionPoolTest" />
-      <option name="METHOD_NAME" value="getConnectionThrowsConnectionIsInvalidException" />
+      <option name="METHOD_NAME" value="verifySwitchesBackToPrimaryPool" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -458,13 +507,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConnectionPoolTest.testConnection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zentitytask1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConnectionPoolTest" />
+      <option name="METHOD_NAME" value="testConnection" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.ConnectionPoolTest.getConnectionThrowsConnectionIsInvalidException" />
-        <item itemvalue="JUnit.ConnectionManagerTest.returnConnectionsToThePool" />
+        <item itemvalue="JUnit.ConnectionPoolTest.testConnection" />
+        <item itemvalue="JUnit.All in zentitytask1" />
         <item itemvalue="JUnit.ConnectionPoolTest.test" />
         <item itemvalue="JUnit.ConnectionPoolTest.getConnectionsThrowsExceptionWhenOutOfConnections" />
+        <item itemvalue="JUnit.ConnectionManagerTest.verifySwitchesBackToPrimaryPool" />
       </list>
     </recent_temporary>
   </component>
@@ -490,50 +549,51 @@
       <workItem from="1606137289856" duration="15403000" />
       <workItem from="1606158684167" duration="2862000" />
       <workItem from="1606213486477" duration="8006000" />
-      <workItem from="1606309732475" duration="4489000" />
+      <workItem from="1606309732475" duration="6837000" />
+      <workItem from="1606385069509" duration="2090000" />
+      <workItem from="1606563559197" duration="31531000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ConnectionManagerTest_returnConnectionsToThePool - 2020.11.23 at 13h 35m 55s.xml">
-      <configuration name="ConnectionManagerTest.returnConnectionsToThePool" configurationId="JUnit" />
+    <history-entry file="ConnectionManagerTest_verifySwitchesToSecondadryPool - 2020.11.29 at 15h 21m 15s.xml">
+      <configuration name="ConnectionManagerTest.verifySwitchesToSecondadryPool" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConnectionPoolTest_getConnectionThrowsConnectionIsInvalidException - 2020.11.23 at 13h 53m 19s.xml">
-      <configuration name="ConnectionPoolTest.getConnectionThrowsConnectionIsInvalidException" configurationId="JUnit" />
+    <history-entry file="ConnectionManagerTest_verifySwitchesToSecondadryPool - 2020.11.29 at 15h 21m 38s.xml">
+      <configuration name="ConnectionManagerTest.verifySwitchesToSecondadryPool" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConnectionPoolTest_getConnectionThrowsConnectionIsInvalidException - 2020.11.23 at 13h 54m 04s.xml">
-      <configuration name="ConnectionPoolTest.getConnectionThrowsConnectionIsInvalidException" configurationId="JUnit" />
+    <history-entry file="ConnectionManagerTest_verifySwitchesToSecondadryPool - 2020.11.29 at 15h 21m 47s.xml">
+      <configuration name="ConnectionManagerTest.verifySwitchesToSecondadryPool" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConnectionPoolTest_getConnectionThrowsConnectionIsInvalidException - 2020.11.23 at 13h 55m 40s.xml">
-      <configuration name="ConnectionPoolTest.getConnectionThrowsConnectionIsInvalidException" configurationId="JUnit" />
+    <history-entry file="ConnectionManagerTest_verifySwitchesToSecondadryPool - 2020.11.29 at 15h 22m 54s.xml">
+      <configuration name="ConnectionManagerTest.verifySwitchesToSecondadryPool" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConnectionPoolTest_getConnectionThrowsConnectionIsInvalidException - 2020.11.23 at 13h 55m 52s.xml">
-      <configuration name="ConnectionPoolTest.getConnectionThrowsConnectionIsInvalidException" configurationId="JUnit" />
+    <history-entry file="ConnectionManagerTest_verifySwitchesToSecondadryPool - 2020.11.29 at 15h 23m 38s.xml">
+      <configuration name="ConnectionManagerTest.verifySwitchesToSecondadryPool" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConnectionPoolTest_getConnectionThrowsConnectionIsInvalidException - 2020.11.23 at 13h 56m 54s.xml">
-      <configuration name="ConnectionPoolTest.getConnectionThrowsConnectionIsInvalidException" configurationId="JUnit" />
+    <history-entry file="ConnectionManagerTest_verifySwitchesBackToPrimaryPool - 2020.11.29 at 15h 24m 46s.xml">
+      <configuration name="ConnectionManagerTest.verifySwitchesBackToPrimaryPool" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConnectionPoolTest_getConnectionThrowsConnectionIsInvalidException - 2020.11.23 at 13h 57m 47s.xml">
-      <configuration name="ConnectionPoolTest.getConnectionThrowsConnectionIsInvalidException" configurationId="JUnit" />
+    <history-entry file="ConnectionPoolTest_getConnectionsThrowsExceptionWhenOutOfConnections - 2020.11.29 at 15h 30m 21s.xml">
+      <configuration name="ConnectionPoolTest.getConnectionsThrowsExceptionWhenOutOfConnections" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConnectionPoolTest_getConnectionThrowsConnectionIsInvalidException - 2020.11.23 at 13h 58m 43s.xml">
-      <configuration name="ConnectionPoolTest.getConnectionThrowsConnectionIsInvalidException" configurationId="JUnit" />
+    <history-entry file="ConnectionPoolTest_test - 2020.11.29 at 15h 30m 30s.xml">
+      <configuration name="ConnectionPoolTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConnectionPoolTest_getConnectionThrowsConnectionIsInvalidException - 2020.11.23 at 13h 59m 00s.xml">
-      <configuration name="ConnectionPoolTest.getConnectionThrowsConnectionIsInvalidException" configurationId="JUnit" />
+    <history-entry file="All_in_zentitytask1 - 2020.11.29 at 15h 34m 28s.xml">
+      <configuration name="All in zentitytask1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConnectionPoolTest_getConnectionThrowsConnectionIsInvalidException - 2020.11.23 at 13h 59m 15s.xml">
-      <configuration name="ConnectionPoolTest.getConnectionThrowsConnectionIsInvalidException" configurationId="JUnit" />
+    <history-entry file="ConnectionPoolTest_testConnection - 2020.11.29 at 17h 49m 35s.xml">
+      <configuration name="ConnectionPoolTest.testConnection" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89345000" />
+    <option name="totallyTimeSpent" value="125314000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17643923" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17430703" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -542,18 +602,19 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27193934" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.27952328" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33694476" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3033586" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Console" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32936078" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32995737" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -573,69 +634,53 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
-          <line>43</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
-          <line>47</line>
+          <line>10</line>
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/ConnectionPoolTest.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/ConnectionPoolTest.java</url>
-          <line>36</line>
+          <line>38</line>
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/ConnectionManagerTest.java</url>
-          <line>18</line>
+          <line>10</line>
           <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionManager.java</url>
-          <line>64</line>
+          <url>file://$PROJECT_DIR$/src/test/java/ConnectionManagerTest.java</url>
+          <line>14</line>
           <properties />
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionPool.java</url>
-          <line>51</line>
-          <properties />
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionPool.java</url>
-          <line>63</line>
-          <properties />
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="20" />
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionManager.java</url>
-          <line>33</line>
+          <line>58</line>
           <properties />
-          <option name="timeStamp" value="21" />
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionPool.java</url>
-          <line>93</line>
+          <line>46</line>
           <properties />
-          <option name="timeStamp" value="22" />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ConnectionPoolTest.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/ConnectionPoolTest.java</url>
+          <line>37</line>
+          <properties class="ConnectionPoolTest" method="test">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -700,142 +745,10 @@ expect(DriverManager.getConnection(&quot;jdbc:h2:mem:test&quot;, &quot;test&quot
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar!/org/junit/runners/ParentRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="307" selection-start-line="307" selection-end-line="307" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar!/org/slf4j/LoggerFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="305" selection-start-line="305" selection-end-line="305" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar!/org/junit/Assert.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3717">
-          <caret line="382" column="42" selection-start-line="382" selection-start-column="42" selection-end-line="382" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar!/ch/qos/logback/core/ConsoleAppender.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/ConsoleAppender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="39" column="61" lean-forward="true" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs.txt" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar!/org/slf4j/Logger.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-493">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30-sources.jar!/org/slf4j/Logger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="62" column="3" lean-forward="true" selection-start-line="62" selection-start-column="3" selection-end-line="66" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logback.xml" />
-    <entry file="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar!/org/slf4j/Logger.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A1.log" />
-    <entry file="file://$PROJECT_DIR$/A1.txt" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/LogTemplate.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionHandler.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.10.0/elasticsearch-rest-client-7.10.0.jar!/org/elasticsearch/client/RestClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="128" column="36" selection-start-line="128" selection-start-column="36" selection-end-line="128" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/java/util/Collection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#1441#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/java/util/Set.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#757#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-          <folding>
-            <element signature="docComment;class#Iterable#0" />
-            <element signature="docComment;method#iterator#0;class#Iterable#0" />
-            <element signature="docComment;method#forEach#0;class#Iterable#0" />
-            <element signature="method#forEach#0;class#Iterable#0" />
-            <element signature="e#1753#1794#1" />
-            <element signature="docComment;method#spliterator#0;class#Iterable#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Set.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="114" column="51" selection-start-line="114" selection-start-column="51" selection-end-line="114" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/logsearch/ElasticSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -864,43 +777,6 @@ expect(DriverManager.getConnection(&quot;jdbc:h2:mem:test&quot;, &quot;test&quot
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ConnectionManagerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ConnectionPoolTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="44" selection-start-column="7" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.10.0/elasticsearch-rest-client-7.10.0-sources.jar!/org/elasticsearch/client/RestClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3026">
-          <caret line="259" column="36" selection-start-line="259" selection-start-column="36" selection-end-line="259" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.10.0/elasticsearch-rest-client-7.10.0-sources.jar!/org/elasticsearch/client/Request.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -918,24 +794,20 @@ expect(DriverManager.getConnection(&quot;jdbc:h2:mem:test&quot;, &quot;test&quot
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/log.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/logsearch/ElasticSearch.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar!/org/apache/logging/log4j/spi/AbstractLogger.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1581">
-          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        <state relative-caret-position="15096">
+          <caret line="941" selection-start-line="941" selection-end-line="941" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zentitytask1.iml">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/awt/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="66" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/confg.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="1309">
+          <caret line="108" column="13" selection-start-line="108" selection-start-column="13" selection-end-line="108" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -946,112 +818,427 @@ expect(DriverManager.getConnection(&quot;jdbc:h2:mem:test&quot;, &quot;test&quot
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1-sources.jar!/org/junit/Assert.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.10.0/elasticsearch-rest-client-7.10.0-sources.jar!/org/elasticsearch/client/RestClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11798">
-          <caret line="721" column="23" selection-start-line="721" selection-start-column="23" selection-end-line="721" selection-end-column="23" />
-          <folding>
-            <element signature="e#27619#27620#0" expanded="true" />
-            <element signature="e#27662#27663#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/awt/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="108" column="13" selection-start-line="108" selection-start-column="13" selection-end-line="108" selection-end-column="13" />
+        <state relative-caret-position="382">
+          <caret line="232" column="5" lean-forward="true" selection-start-line="232" selection-start-column="5" selection-end-line="232" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="841">
           <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/Matchers.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        <state relative-caret-position="196">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1529#1530#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar!/org/apache/logging/log4j/spi/AbstractLogger.class">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.10.0/elasticsearch-rest-client-7.10.0-sources.jar!/org/elasticsearch/client/Request.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="941" selection-start-line="941" selection-end-line="941" />
+        <state relative-caret-position="238">
+          <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionPool.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/internal/progress/ThreadSafeMockingProgress.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        <state relative-caret-position="627">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#922#923#0" expanded="true" />
-            <element signature="e#978#979#0" expanded="true" />
+            <element signature="e#1993#1994#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/DbConstants.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="1118" column="73" lean-forward="true" selection-start-line="1118" selection-start-column="70" selection-end-line="1118" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/exceptions/ConnectionsPrepareUnsuccessfulException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1-sources.jar!/org/junit/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="985" column="50" selection-start-line="985" selection-end-line="986" />
+          <folding>
+            <element signature="docComment;class#Assert#0" />
+            <element signature="e#700#770#0" />
+            <element signature="e#700#801#0" />
+            <element signature="e#807#1102#0" />
+            <element signature="e#807#1242#0" />
+            <element signature="e#1198#1236#1" />
+            <element signature="e#1248#1429#0" />
+            <element signature="e#1533#1829#0" />
+            <element signature="e#1954#2136#0" />
+            <element signature="e#2242#2440#0" />
+            <element signature="e#2242#2616#0" />
+            <element signature="e#2516#2567#1" />
+            <element signature="e#2622#2670#0" />
+            <element signature="e#2734#3173#0" />
+            <element signature="e#2734#3688#0" />
+            <element signature="e#3323#3354#1" />
+            <element signature="e#3423#3611#1" />
+            <element signature="e#3617#3682#1" />
+            <element signature="e#3694#3897#0" />
+            <element signature="e#3801#3847#1" />
+            <element signature="e#4020#4381#0" />
+            <element signature="e#4509#5009#0" />
+            <element signature="e#4509#5224#0" />
+            <element signature="e#5166#5218#1" />
+            <element signature="e#5230#5616#0" />
+            <element signature="e#5754#6031#0" />
+            <element signature="e#5906#5957#1" />
+            <element signature="e#6037#6420#0" />
+            <element signature="e#6037#6614#0" />
+            <element signature="e#6542#6608#1" />
+            <element signature="e#6620#6889#0" />
+            <element signature="e#7023#7763#0" />
+            <element signature="e#7023#8014#0" />
+            <element signature="e#7940#8008#1" />
+            <element signature="e#8020#8620#0" />
+            <element signature="e#8020#8773#0" />
+            <element signature="e#8779#9376#0" />
+            <element signature="e#8779#9526#0" />
+            <element signature="e#9532#10124#0" />
+            <element signature="e#9532#10327#0" />
+            <element signature="e#10333#10790#0" />
+            <element signature="e#10333#10930#0" />
+            <element signature="e#10936#11430#0" />
+            <element signature="e#10936#11635#0" />
+            <element signature="e#11641#12001#0" />
+            <element signature="e#11641#12143#0" />
+            <element signature="e#12149#12516#0" />
+            <element signature="e#12149#12715#0" />
+            <element signature="e#12721#12956#0" />
+            <element signature="e#12721#13092#0" />
+            <element signature="e#13098#13465#0" />
+            <element signature="e#13098#13664#0" />
+            <element signature="e#13670#13905#0" />
+            <element signature="e#13670#14041#0" />
+            <element signature="e#14047#14417#0" />
+            <element signature="e#14047#14618#0" />
+            <element signature="e#14624#14862#0" />
+            <element signature="e#14624#15000#0" />
+            <element signature="e#15006#15370#0" />
+            <element signature="e#15006#15567#0" />
+            <element signature="e#15573#15805#0" />
+            <element signature="e#15573#15939#0" />
+            <element signature="e#15945#16312#0" />
+            <element signature="e#15945#16511#0" />
+            <element signature="e#16517#16752#0" />
+            <element signature="e#16517#16888#0" />
+            <element signature="e#16894#17432#0" />
+            <element signature="e#16894#17678#0" />
+            <element signature="e#17684#18090#0" />
+            <element signature="e#17684#18251#0" />
+            <element signature="e#18257#18792#0" />
+            <element signature="e#18257#19035#0" />
+            <element signature="e#19041#19444#0" />
+            <element signature="e#19041#19602#0" />
+            <element signature="e#19608#20200#0" />
+            <element signature="e#19608#20424#0" />
+            <element signature="e#20430#21151#0" />
+            <element signature="e#20430#21423#0" />
+            <element signature="e#21320#21417#1" />
+            <element signature="e#21429#22147#0" />
+            <element signature="e#21429#22413#0" />
+            <element signature="e#22312#22407#1" />
+            <element signature="e#22419#23156#0" />
+            <element signature="e#22419#23402#0" />
+            <element signature="e#23329#23396#1" />
+            <element signature="e#23408#23673#0" />
+            <element signature="e#23528#23565#1" />
+            <element signature="e#23608#23645#1" />
+            <element signature="e#23679#23939#0" />
+            <element signature="e#23794#23831#1" />
+            <element signature="e#23874#23911#1" />
+            <element signature="e#23945#24148#0" />
+            <element signature="e#24272#24607#0" />
+            <element signature="e#24272#24821#0" />
+            <element signature="e#24722#24815#1" />
+            <element signature="e#24827#24979#0" />
+            <element signature="e#25123#25291#0" />
+            <element signature="e#25123#25504#0" />
+            <element signature="e#25510#26091#0" />
+            <element signature="e#25510#26234#0" />
+            <element signature="e#26240#26819#0" />
+            <element signature="e#26240#26959#0" />
+            <element signature="e#26965#27268#0" />
+            <element signature="e#27395#27566#0" />
+            <element signature="e#27669#27974#0" />
+            <element signature="e#27669#28145#0" />
+            <element signature="e#28070#28101#1" />
+            <element signature="e#28151#28322#0" />
+            <element signature="e#28419#28669#0" />
+            <element signature="e#28544#28594#1" />
+            <element signature="e#28675#29055#0" />
+            <element signature="e#28675#29257#0" />
+            <element signature="e#29172#29203#1" />
+            <element signature="e#29263#29538#0" />
+            <element signature="e#29662#30088#0" />
+            <element signature="e#29662#30272#0" />
+            <element signature="e#30224#30266#1" />
+            <element signature="e#30278#30590#0" />
+            <element signature="e#30724#30934#0" />
+            <element signature="e#30831#30881#1" />
+            <element signature="e#30940#31253#0" />
+            <element signature="e#31094#31144#1" />
+            <element signature="e#31259#31409#0" />
+            <element signature="e#31415#32140#0" />
+            <element signature="e#31569#31619#1" />
+            <element signature="e#31795#31998#1" />
+            <element signature="e#32004#32134#1" />
+            <element signature="e#32146#32320#0" />
+            <element signature="e#32326#32541#0" />
+            <element signature="e#32547#33180#0" />
+            <element signature="e#32547#33362#0" />
+            <element signature="e#33368#33866#0" />
+            <element signature="e#34017#35214#0" />
+            <element signature="e#35361#36737#0" />
+            <element signature="e#35361#36923#0" />
+            <element signature="e#36929#37830#0" />
+            <element signature="e#37836#40436#0" />
+            <element signature="e#38799#38838#0" />
+            <element signature="e#38870#40181#0" />
+            <element signature="e#38932#39054#1" />
+            <element signature="e#39060#40171#1" />
+            <element signature="e#39321#39737#1" />
+            <element signature="e#39343#39425#0" />
+            <element signature="e#40442#40578#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/internal/creation/cglib/MethodInterceptorFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+          <folding>
+            <element signature="e#3981#3982#0" expanded="true" />
+            <element signature="e#11600#11803#0" expanded="true" />
+            <element signature="e#11802#11803#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="371" selection-start-line="371" selection-end-line="371" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose2.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/confg.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="59" lean-forward="true" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionManager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/exceptions/OutOfConnectionsException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/log.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-904" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/log.log">
+    <entry file="file://$PROJECT_DIR$/log/log.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-931" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="-1026">
+          <caret line="464" column="85" selection-start-line="464" selection-start-column="85" selection-end-line="464" selection-end-column="85" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.properties">
+    <entry file="file://$PROJECT_DIR$/logstash/logstash.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="68">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="46" lean-forward="true" selection-end-line="24" selection-end-column="16" />
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/log.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8904" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zentitytask1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="71" column="37" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/LogTemplate.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/Mockito.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19-sources.jar!/org/mockito/Mockito.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="1384" column="6" lean-forward="true" selection-start-line="1384" selection-start-column="6" selection-end-line="1384" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://901d3e7a-1b11-4484-a8d9-52bc73538c8a/database/postgres/schema/public/table/dogs">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/901d3e7a-1b11-4484-a8d9-52bc73538c8a/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="57" selection-start-column="57" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://901d3e7a-1b11-4484-a8d9-52bc73538c8a/database/postgres/extension/plpgsql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://901d3e7a-1b11-4484-a8d9-52bc73538c8a/database/postgres/extension/adminpack">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="89" column="49" selection-start-line="89" selection-start-column="49" selection-end-line="89" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/ConnectionPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="98" column="16" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ConnectionManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="52" column="38" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dbmanagement/DbConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ConnectionPoolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
         </state>
       </provider>
     </entry>

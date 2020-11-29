@@ -1,6 +1,8 @@
+import dbmanagement.ConnectionManager;
 import dbmanagement.ConnectionPool;
 import dbmanagement.exceptions.ConnectionIsInvalidException;
 import dbmanagement.exceptions.OutOfConnectionsException;
+import org.junit.Assert;
 import org.junit.Test;
 import org.mockito.Mockito;
 
@@ -18,13 +20,13 @@ public class ConnectionPoolTest {
     private static final String TEST_PASSWORD = "pass";
 
     @Test
-    public void getConnectionsThrowsExceptionWhenOutOfConnections() {
+    public void getConnectionsThrowsExceptionWhenOutOfConnections() throws OutOfConnectionsException {
 
         // create pool
         ConnectionPool connectionPool = new ConnectionPool(TEST_URL, TEST_USER, TEST_PASSWORD);
 
         // consume all connections
-        for (int i = 0; i < POOL_SIZE; i++) {
+        for (int i = 0; i <= POOL_SIZE; i++) {
             connectionPool.getConnection();
         }
 
@@ -33,9 +35,9 @@ public class ConnectionPoolTest {
     }
 
     @Test
-    public void test() {
+    public void testConnection() {
         ConnectionPool connectionPool = new ConnectionPool("jdbc:postgresql://localhost:5432/postgres", "postgres", "admin");
-        ConnectionPool connectionPool2 = new ConnectionPool("jdbc:h2:mem:test2", TEST_USER, TEST_PASSWORD);
+        ConnectionPool connectionPool2 = new ConnectionPool("jdbc:oracle:thin:@localhost:1521:XE", "TICKETSYSTEM", "admin");
 
         Connection connection = connectionPool.getConnection();
         Connection connection2 = connectionPool2.getConnection();
@@ -43,33 +45,4 @@ public class ConnectionPoolTest {
         assertNotNull(connection);
         assertNotNull(connection2);
     }
-
-    @Test
-    public void getConnectionThrowsConnectionIsInvalidException() throws SQLException {
-//        dbmanagement.ConnectionPool connectionPool = new dbmanagement.ConnectionPool("jdbc:postgresql://localhost:5432/postgres", "postgres", "admin");
-//
-//        Connection c = connectionPool.getConnection();
-        Connection connection = Mockito.mock(Connection.class);
-        ConnectionPool pool = Mockito.mock(ConnectionPool.class);
-
-        Mockito.when(connection.isValid(Mockito.anyInt())).thenReturn(false);
-
-        assertThrows(ConnectionIsInvalidException.class, pool::getConnection);
-
-
-    }
-
-//    @Test
-//    public void getConnectionsThrowsExceptionWhenConnectionIsInvalid() throws SQLException {
-//
-//        // create pool
-//        dbmanagement.ConnectionPool connectionPool = new dbmanagement.ConnectionPool(TEST_URL, TEST_USER, TEST_PASSWORD);
-//
-//        Connection connectionMock = Mockito.mock(Connection.class);
-//        when(connectionMock.isValid(anyInt())).thenThrow(SQLException.class);
-//        doThrow(SQLException.class).when(connectionMock).isValid(anyInt());
-//
-//        // ask for one more connection
-//        assertThrows(ConnectionIsInvalidException.class);
-//    }
 }

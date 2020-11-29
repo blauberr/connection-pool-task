@@ -1,5 +1,7 @@
 import dbmanagement.ConnectionManager;
 import dbmanagement.ConnectionPool;
+import dbmanagement.exceptions.ConnectionIsInvalidException;
+import org.junit.Assert;
 import org.junit.Test;
 import org.mockito.Mockito;
 
@@ -8,24 +10,46 @@ import java.sql.SQLException;
 
 public class ConnectionManagerTest {
 
-
-    private static final String TEST_USER = "user";
-    private static final String TEST_PASSWORD = "pass";
-
-
-
     @Test
-    public void returnConnectionsToThePool () throws SQLException {
-        ConnectionPool connectionPool1 = new ConnectionPool("jdbc:h2:mem:test2", TEST_USER, TEST_PASSWORD);
-        ConnectionPool connectionPool2 = new ConnectionPool("jdbc:postgresql://localhost:5432/postgres", "postgres", "admin");
-
+    public void verifySwitchesToSecondaryPool() {
         ConnectionManager connectionManager = ConnectionManager.getInstance();
 
-        Connection connection = connectionPool1.getConnection();
+        ConnectionPool primaryPoolMock = Mockito.mock(ConnectionPool.class);
+        Mockito.when(primaryPoolMock.getConnection()).thenThrow(new ConnectionIsInvalidException());
 
-        Mockito.when(connection.getMetaData().getURL()).thenReturn("jdbc:postgresql://localhost:5432/postgres");
+        Connection validConnectionMock = Mockito.mock(Connection.class);
 
+        ConnectionPool secondaryPoolMock = Mockito.mock(ConnectionPool.class);
+        Mockito.when(secondaryPoolMock.getConnection()).thenReturn(validConnectionMock);
 
-        connectionManager.returnConnectionToConnectionPool(connection);
+        connectionManager.setPrimaryPool(primaryPoolMock);
+        connectionManager.setSecondaryPool(secondaryPoolMock);
+
+        Connection returnedConnection = connectionManager.getConnection();
+        Assert.assertEquals(returnedConnection, validConnectionMock);
+    }
+
+    @Test
+    public void verifySwitchesBackToPrimaryPool() {
+        ConnectionManager connectionManager = ConnectionManager.getInstance();
+
+        ConnectionPool primaryPoolMock = Mockito.mock(ConnectionPool.class);
+        Mockito.when(primaryPoolMock.getConnection()).thenThrow(new ConnectionIsInvalidException());
+
+        Connection validPrimaryConnectionMock = Mockito.mock(Connection.class);
+        Connection validSecondaryConnectionMock = Mockito.mock(Connection.class);
+
+        ConnectionPool secondaryPoolMock = Mockito.mock(ConnectionPool.class);
+        Mockito.when(secondaryPoolMock.getConnection()).thenReturn(validSecondaryConnectionMock);
+
+        connectionManager.setPrimaryPool(primaryPoolMock);
+        connectionManager.setSecondaryPool(secondaryPoolMock);
+
+        Connection returnedConnection = connectionManager.getConnection();
+        Assert.assertEquals(returnedConnection, validSecondaryConnectionMock);
+
+        Mockito.when(secondaryPoolMock.getConnection()).thenReturn(validPrimaryConnectionMock);
+        Connection primCon = connectionManager.getConnection();
+        Assert.assertEquals(primCon,validPrimaryConnectionMock);
     }
 }

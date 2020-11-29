@@ -1,0 +1,618 @@
+2020-11-25 17:58:51,693 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:94) - Preparing connections for connection pool
+2020-11-25 17:58:52,117 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:102) - Connections for connection pool were successfully prepared
+2020-11-25 17:58:52,117 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:94) - Preparing connections for connection pool
+2020-11-25 17:58:52,418 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:102) - Connections for connection pool were successfully prepared
+2020-11-25 17:58:52,439 ERROR [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Connection successfully returned to primary connection pool
+2020-11-25 17:58:52,439 INFO  [main] dbmanagement.ConnectionManager (ConnectionManager.java:72) - Connection successfully returned to primary connection pool
+2020-11-25 17:58:52,442 ERROR [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Connection successfully returned to primary connection pool
+2020-11-25 17:58:52,443 INFO  [main] dbmanagement.ConnectionManager (ConnectionManager.java:72) - Connection successfully returned to primary connection pool
+2020-11-25 17:58:52,443 ERROR [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Connection successfully returned to primary connection pool
+2020-11-25 17:58:52,444 INFO  [main] dbmanagement.ConnectionManager (ConnectionManager.java:72) - Connection successfully returned to primary connection pool
+2020-11-25 17:58:52,444 ERROR [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Connection successfully returned to primary connection pool
+2020-11-25 17:58:52,444 INFO  [main] dbmanagement.ConnectionManager (ConnectionManager.java:72) - Connection successfully returned to primary connection pool
+2020-11-25 17:58:52,445 ERROR [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Connection successfully returned to primary connection pool
+2020-11-25 17:58:52,445 INFO  [main] dbmanagement.ConnectionManager (ConnectionManager.java:72) - Connection successfully returned to primary connection pool
+2020-11-28 13:17:56,980 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Preparing connections for connection pool
+2020-11-28 13:17:57,198 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:127) - Connections for connection pool were successfully prepared
+2020-11-28 13:20:20,433 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Preparing connections for connection pool
+2020-11-28 13:20:20,686 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:125) - Connection number 01 prepared
+2020-11-28 13:20:20,687 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:125) - Connection number 11 prepared
+2020-11-28 13:20:20,687 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:125) - Connection number 21 prepared
+2020-11-28 13:20:20,687 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:125) - Connection number 31 prepared
+2020-11-28 13:20:20,688 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:125) - Connection number 41 prepared
+2020-11-28 13:20:20,688 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:128) - Connections for connection pool were successfully prepared
+2020-11-28 13:20:43,480 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Preparing connections for connection pool
+2020-11-28 13:20:43,651 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:125) - Connection number 1 prepared
+2020-11-28 13:20:43,652 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:125) - Connection number 2 prepared
+2020-11-28 13:20:43,652 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:125) - Connection number 3 prepared
+2020-11-28 13:20:43,653 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:125) - Connection number 4 prepared
+2020-11-28 13:20:43,653 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:125) - Connection number 5 prepared
+2020-11-28 13:20:43,654 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:128) - Connections for connection pool were successfully prepared
+2020-11-28 13:21:21,402 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Preparing connections for connection pool
+2020-11-28 13:21:24,675 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:125) - Connection number 1 prepared
+2020-11-28 13:21:25,797 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:125) - Connection number 2 prepared
+2020-11-28 13:21:26,865 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:125) - Connection number 3 prepared
+2020-11-28 13:21:27,824 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:125) - Connection number 4 prepared
+2020-11-28 13:21:28,861 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:125) - Connection number 5 prepared
+2020-11-28 13:21:29,483 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:128) - Connections for connection pool were successfully prepared
+2020-11-28 13:22:47,217 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Preparing connections for connection pool
+2020-11-28 13:22:47,400 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:125) - Connection number 1 prepared
+2020-11-28 13:22:47,401 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:125) - Connection number 2 prepared
+2020-11-28 13:22:47,401 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:125) - Connection number 3 prepared
+2020-11-28 13:22:47,401 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:125) - Connection number 4 prepared
+2020-11-28 13:22:47,402 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:125) - Connection number 5 prepared
+2020-11-28 13:22:47,402 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:128) - Connections for connection pool were successfully prepared
+2020-11-28 13:23:42,470 WARN  [main] dbmanagement.ConnectionPool (ConnectionPool.java:81) - Connection pool is out of available connections
+2020-11-28 13:24:35,338 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:121) - Preparing connections for connection pool
+2020-11-28 13:24:35,521 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:127) - Connection number 1 prepared
+2020-11-28 13:24:35,521 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:127) - Connection number 2 prepared
+2020-11-28 13:24:35,522 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:127) - Connection number 3 prepared
+2020-11-28 13:24:35,522 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:127) - Connection number 4 prepared
+2020-11-28 13:24:35,522 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:127) - Connection number 5 prepared
+2020-11-28 13:24:35,523 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:130) - Connections for connection pool were successfully prepared
+2020-11-28 13:25:01,937 WARN  [main] dbmanagement.ConnectionPool (ConnectionPool.java:83) - Connection pool is out of available connections
+2020-11-28 13:27:54,804 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:121) - Preparing connections for connection pool
+2020-11-28 13:27:55,002 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:127) - Connection number 1 prepared
+2020-11-28 13:27:55,140 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:127) - Connection number 2 prepared
+2020-11-28 13:27:55,182 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:127) - Connection number 3 prepared
+2020-11-28 13:27:55,223 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:127) - Connection number 4 prepared
+2020-11-28 13:27:55,267 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:127) - Connection number 5 prepared
+2020-11-28 13:27:55,267 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:130) - Connections for connection pool were successfully prepared
+2020-11-28 13:27:55,267 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:121) - Preparing connections for connection pool
+2020-11-28 13:27:55,403 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:127) - Connection number 1 prepared
+2020-11-28 13:27:55,448 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:127) - Connection number 2 prepared
+2020-11-28 13:27:55,489 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:127) - Connection number 3 prepared
+2020-11-28 13:27:55,529 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:127) - Connection number 4 prepared
+2020-11-28 13:27:55,573 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:127) - Connection number 5 prepared
+2020-11-28 13:27:55,573 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:130) - Connections for connection pool were successfully prepared
+2020-11-28 13:42:55,544 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Preparing connections for connection pool
+2020-11-28 13:42:55,742 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:124) - Connection number 1 prepared
+2020-11-28 13:42:55,742 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:124) - Connection number 2 prepared
+2020-11-28 13:42:55,743 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:124) - Connection number 3 prepared
+2020-11-28 13:42:55,743 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:124) - Connection number 4 prepared
+2020-11-28 13:42:55,744 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:124) - Connection number 5 prepared
+2020-11-28 13:42:55,744 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:127) - Connections for connection pool were successfully prepared
+2020-11-28 13:43:31,967 WARN  [main] dbmanagement.ConnectionPool (ConnectionPool.java:80) - Connection pool is out of available connections
+2020-11-28 13:44:20,061 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Preparing connections for connection pool
+2020-11-28 13:44:20,247 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:124) - Connection number 1 prepared
+2020-11-28 13:44:20,247 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:124) - Connection number 2 prepared
+2020-11-28 13:44:20,248 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:124) - Connection number 3 prepared
+2020-11-28 13:44:20,248 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:124) - Connection number 4 prepared
+2020-11-28 13:44:20,248 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:124) - Connection number 5 prepared
+2020-11-28 13:44:20,249 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:127) - Connections for connection pool were successfully prepared
+2020-11-28 13:45:20,804 WARN  [main] dbmanagement.ConnectionPool (ConnectionPool.java:80) - Connection pool is out of available connections
+2020-11-28 16:12:52,200 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Preparing connections for connection pool
+2020-11-28 16:12:52,408 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 1 prepared
+2020-11-28 16:12:52,452 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 2 prepared
+2020-11-28 16:12:52,491 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 3 prepared
+2020-11-28 16:12:52,528 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 4 prepared
+2020-11-28 16:12:52,568 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 5 prepared
+2020-11-28 16:12:52,568 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:94) - Connections for connection pool were successfully prepared
+2020-11-28 16:12:52,569 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Preparing connections for connection pool
+2020-11-28 16:12:52,614 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 1 prepared
+2020-11-28 16:12:52,657 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 2 prepared
+2020-11-28 16:12:52,705 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 3 prepared
+2020-11-28 16:12:52,750 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 4 prepared
+2020-11-28 16:12:52,791 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 5 prepared
+2020-11-28 16:12:52,792 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:94) - Connections for connection pool were successfully prepared
+2020-11-28 16:13:29,515 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Preparing connections for connection pool
+2020-11-28 16:13:33,429 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 1 prepared
+2020-11-28 16:13:33,480 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 2 prepared
+2020-11-28 16:13:33,528 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 3 prepared
+2020-11-28 16:13:33,575 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 4 prepared
+2020-11-28 16:13:33,620 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 5 prepared
+2020-11-28 16:13:33,621 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:94) - Connections for connection pool were successfully prepared
+2020-11-28 16:13:33,621 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Preparing connections for connection pool
+2020-11-28 16:13:33,675 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 1 prepared
+2020-11-28 16:13:33,718 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 2 prepared
+2020-11-28 16:13:33,765 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 3 prepared
+2020-11-28 16:13:33,810 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 4 prepared
+2020-11-28 16:13:33,947 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 5 prepared
+2020-11-28 16:13:33,948 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:94) - Connections for connection pool were successfully prepared
+2020-11-28 16:14:11,483 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Preparing connections for connection pool
+2020-11-28 16:14:11,988 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 1 prepared
+2020-11-28 16:14:12,028 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 2 prepared
+2020-11-28 16:14:12,071 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 3 prepared
+2020-11-28 16:14:12,114 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 4 prepared
+2020-11-28 16:14:12,154 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 5 prepared
+2020-11-28 16:14:12,155 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:94) - Connections for connection pool were successfully prepared
+2020-11-28 16:14:12,156 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Preparing connections for connection pool
+2020-11-28 16:14:12,198 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 1 prepared
+2020-11-28 16:14:12,243 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 2 prepared
+2020-11-28 16:14:12,288 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 3 prepared
+2020-11-28 16:14:12,331 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 4 prepared
+2020-11-28 16:14:12,373 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 5 prepared
+2020-11-28 16:14:12,375 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:94) - Connections for connection pool were successfully prepared
+2020-11-28 16:17:03,757 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Preparing connections for connection pool
+2020-11-28 16:17:04,197 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 1 prepared
+2020-11-28 16:17:04,242 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 2 prepared
+2020-11-28 16:17:04,281 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 3 prepared
+2020-11-28 16:17:04,322 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 4 prepared
+2020-11-28 16:17:04,362 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 5 prepared
+2020-11-28 16:17:04,363 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:94) - Connections for connection pool were successfully prepared
+2020-11-28 16:17:04,364 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Preparing connections for connection pool
+2020-11-28 16:17:04,404 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 1 prepared
+2020-11-28 16:17:04,447 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 2 prepared
+2020-11-28 16:17:04,488 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 3 prepared
+2020-11-28 16:17:04,528 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 4 prepared
+2020-11-28 16:17:04,671 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:91) - Connection number 5 prepared
+2020-11-28 16:17:04,673 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:94) - Connections for connection pool were successfully prepared
+2020-11-28 16:37:16,014 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:71) - Active connection pool is invalid
+2020-11-28 16:37:33,170 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:71) - Active connection pool is invalid
+2020-11-29 13:57:13,925 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:66) - Active connection pool is invalid
+2020-11-29 13:57:30,024 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:100) - Preparing connections for connection pool
+2020-11-29 13:57:30,254 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:106) - Connection number 1 prepared
+2020-11-29 13:57:30,255 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:106) - Connection number 2 prepared
+2020-11-29 13:57:30,256 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:106) - Connection number 3 prepared
+2020-11-29 13:57:30,257 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:106) - Connection number 4 prepared
+2020-11-29 13:57:30,258 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:106) - Connection number 5 prepared
+2020-11-29 13:57:30,259 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:109) - Connections for connection pool were successfully prepared
+2020-11-29 13:57:30,268 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:100) - Preparing connections for connection pool
+2020-11-29 13:57:30,269 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:106) - Connection number 1 prepared
+2020-11-29 13:57:30,269 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:106) - Connection number 2 prepared
+2020-11-29 13:57:30,269 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:106) - Connection number 3 prepared
+2020-11-29 13:57:30,270 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:106) - Connection number 4 prepared
+2020-11-29 13:57:30,270 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:106) - Connection number 5 prepared
+2020-11-29 13:57:30,270 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:109) - Connections for connection pool were successfully prepared
+2020-11-29 14:04:54,947 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:106) - Preparing connections for connection pool
+2020-11-29 14:04:55,137 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 1 prepared
+2020-11-29 14:04:55,137 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 2 prepared
+2020-11-29 14:04:55,138 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 3 prepared
+2020-11-29 14:04:55,138 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 4 prepared
+2020-11-29 14:04:55,138 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 5 prepared
+2020-11-29 14:04:55,138 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:115) - Connections for connection pool were successfully prepared
+2020-11-29 14:04:55,139 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:04:55,145 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool
+2020-11-29 14:04:55,145 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:04:55,146 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool
+2020-11-29 14:04:55,146 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:04:55,146 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool
+2020-11-29 14:04:55,146 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:04:55,147 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool
+2020-11-29 14:04:55,147 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:04:55,147 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool
+2020-11-29 14:04:55,148 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:106) - Preparing connections for connection pool
+2020-11-29 14:04:55,149 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 1 prepared
+2020-11-29 14:04:55,149 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 2 prepared
+2020-11-29 14:04:55,149 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 3 prepared
+2020-11-29 14:04:55,150 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 4 prepared
+2020-11-29 14:04:55,150 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 5 prepared
+2020-11-29 14:04:55,150 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:115) - Connections for connection pool were successfully prepared
+2020-11-29 14:04:55,151 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:04:55,151 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool
+2020-11-29 14:07:08,797 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:106) - Preparing connections for connection pool
+2020-11-29 14:07:09,316 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 1 prepared
+2020-11-29 14:07:09,318 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 2 prepared
+2020-11-29 14:07:09,320 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 3 prepared
+2020-11-29 14:07:09,322 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 4 prepared
+2020-11-29 14:07:09,324 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 5 prepared
+2020-11-29 14:07:09,325 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:115) - Connections for connection pool were successfully prepared
+2020-11-29 14:07:36,468 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:07:37,379 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool
+2020-11-29 14:07:46,640 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:07:47,886 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool
+2020-11-29 14:07:52,568 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:07:53,540 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool
+2020-11-29 14:07:56,961 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:07:57,645 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool
+2020-11-29 14:08:03,236 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:106) - Preparing connections for connection pool
+2020-11-29 14:08:03,242 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 1 prepared
+2020-11-29 14:08:03,246 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 2 prepared
+2020-11-29 14:08:03,249 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 3 prepared
+2020-11-29 14:08:03,253 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 4 prepared
+2020-11-29 14:08:03,257 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 5 prepared
+2020-11-29 14:08:03,259 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:115) - Connections for connection pool were successfully prepared
+2020-11-29 14:08:23,177 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:08:23,178 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool
+2020-11-29 14:08:24,102 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:08:24,104 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool
+2020-11-29 14:08:57,660 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:106) - Preparing connections for connection pool
+2020-11-29 14:08:57,842 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 1 prepared
+2020-11-29 14:08:57,842 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 2 prepared
+2020-11-29 14:08:57,843 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 3 prepared
+2020-11-29 14:08:57,843 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 4 prepared
+2020-11-29 14:08:57,844 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 5 prepared
+2020-11-29 14:08:57,844 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:115) - Connections for connection pool were successfully prepared
+2020-11-29 14:08:57,844 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:08:57,851 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool
+2020-11-29 14:08:57,852 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:08:57,852 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool
+2020-11-29 14:08:57,852 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:08:57,853 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool
+2020-11-29 14:08:57,853 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:08:57,853 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool
+2020-11-29 14:08:57,853 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:08:57,854 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool
+2020-11-29 14:08:57,854 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:106) - Preparing connections for connection pool
+2020-11-29 14:08:57,855 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 1 prepared
+2020-11-29 14:08:57,855 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 2 prepared
+2020-11-29 14:08:57,855 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 3 prepared
+2020-11-29 14:08:57,856 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 4 prepared
+2020-11-29 14:08:57,857 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 5 prepared
+2020-11-29 14:08:57,858 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:115) - Connections for connection pool were successfully prepared
+2020-11-29 14:08:57,858 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:08:57,859 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool
+2020-11-29 14:08:57,860 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:08:57,861 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool
+2020-11-29 14:10:12,557 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:106) - Preparing connections for connection pool
+2020-11-29 14:10:12,718 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 1 prepared
+2020-11-29 14:10:12,719 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 2 prepared
+2020-11-29 14:10:12,719 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 3 prepared
+2020-11-29 14:10:12,720 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 4 prepared
+2020-11-29 14:10:12,720 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 5 prepared
+2020-11-29 14:10:12,721 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:115) - Connections for connection pool were successfully prepared
+2020-11-29 14:10:12,721 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:10:12,728 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 14:10:12,728 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:10:12,729 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool, 3 connections remains in the pool
+2020-11-29 14:10:12,729 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:10:12,729 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool, 2 connections remains in the pool
+2020-11-29 14:10:12,730 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:10:12,730 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool, 1 connections remains in the pool
+2020-11-29 14:10:12,730 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:10:12,730 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool, 0 connections remains in the pool
+2020-11-29 14:10:12,731 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:106) - Preparing connections for connection pool
+2020-11-29 14:10:12,731 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 1 prepared
+2020-11-29 14:10:12,732 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 2 prepared
+2020-11-29 14:10:12,732 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 3 prepared
+2020-11-29 14:10:12,733 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 4 prepared
+2020-11-29 14:10:12,733 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 5 prepared
+2020-11-29 14:10:12,733 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:115) - Connections for connection pool were successfully prepared
+2020-11-29 14:10:12,734 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:10:12,734 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 14:10:12,735 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:10:12,736 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool, 3 connections remains in the pool
+2020-11-29 14:11:24,032 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:106) - Preparing connections for connection pool
+2020-11-29 14:11:24,571 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 1 prepared
+2020-11-29 14:11:24,573 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 2 prepared
+2020-11-29 14:11:24,575 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 3 prepared
+2020-11-29 14:11:24,577 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 4 prepared
+2020-11-29 14:11:24,578 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 5 prepared
+2020-11-29 14:11:24,579 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:115) - Connections for connection pool were successfully prepared
+2020-11-29 14:11:27,112 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:11:28,389 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 14:11:33,198 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:11:34,039 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool, 3 connections remains in the pool
+2020-11-29 14:11:37,457 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:11:38,362 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool, 2 connections remains in the pool
+2020-11-29 14:11:42,822 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:11:43,866 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool, 1 connections remains in the pool
+2020-11-29 14:12:06,008 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:12:08,492 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool, 0 connections remains in the pool
+2020-11-29 14:19:23,522 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:106) - Preparing connections for connection pool
+2020-11-29 14:19:23,524 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 1 prepared
+2020-11-29 14:19:23,525 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 2 prepared
+2020-11-29 14:19:23,527 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 3 prepared
+2020-11-29 14:19:23,528 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 4 prepared
+2020-11-29 14:19:23,529 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Connection number 5 prepared
+2020-11-29 14:19:23,530 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:115) - Connections for connection pool were successfully prepared
+2020-11-29 14:19:23,531 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:19:23,532 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 14:19:23,536 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:78) - Validating acquired connection
+2020-11-29 14:19:23,536 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:66) - Connection is valid and was taken from the pool, 3 connections remains in the pool
+2020-11-29 14:19:33,987 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:111) - Preparing connections for connection pool
+2020-11-29 14:19:34,162 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:117) - Connection number 1 prepared
+2020-11-29 14:19:34,162 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:117) - Connection number 2 prepared
+2020-11-29 14:19:34,163 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:117) - Connection number 3 prepared
+2020-11-29 14:19:34,163 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:117) - Connection number 4 prepared
+2020-11-29 14:19:34,163 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:117) - Connection number 5 prepared
+2020-11-29 14:19:34,164 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:120) - Connections for connection pool were successfully prepared
+2020-11-29 14:19:34,164 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:83) - Validating acquired connection
+2020-11-29 14:19:34,170 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:67) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 14:19:34,171 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:83) - Validating acquired connection
+2020-11-29 14:19:34,171 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:67) - Connection is valid and was taken from the pool, 3 connections remains in the pool
+2020-11-29 14:19:34,171 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:83) - Validating acquired connection
+2020-11-29 14:19:34,172 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:67) - Connection is valid and was taken from the pool, 2 connections remains in the pool
+2020-11-29 14:19:34,172 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:83) - Validating acquired connection
+2020-11-29 14:19:34,172 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:67) - Connection is valid and was taken from the pool, 1 connections remains in the pool
+2020-11-29 14:19:34,172 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:83) - Validating acquired connection
+2020-11-29 14:19:34,173 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:67) - Connection is valid and was taken from the pool, 0 connections remains in the pool
+2020-11-29 14:19:34,173 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:53) - No available connection in the pool, waiting 2 seconds for connection becoming available
+2020-11-29 14:20:41,648 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:113) - Preparing connections for connection pool
+2020-11-29 14:20:41,846 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 1 prepared
+2020-11-29 14:20:41,847 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 2 prepared
+2020-11-29 14:20:41,847 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 3 prepared
+2020-11-29 14:20:41,848 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 4 prepared
+2020-11-29 14:20:41,848 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 5 prepared
+2020-11-29 14:20:41,849 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:122) - Connections for connection pool were successfully prepared
+2020-11-29 14:20:41,849 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:20:41,856 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 14:20:41,856 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:20:41,856 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 3 connections remains in the pool
+2020-11-29 14:20:41,857 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:20:41,857 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 2 connections remains in the pool
+2020-11-29 14:20:41,857 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:20:41,858 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 1 connections remains in the pool
+2020-11-29 14:20:41,858 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:20:41,859 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 0 connections remains in the pool
+2020-11-29 14:21:23,667 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:113) - Preparing connections for connection pool
+2020-11-29 14:21:23,835 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 1 prepared
+2020-11-29 14:21:23,836 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 2 prepared
+2020-11-29 14:21:23,836 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 3 prepared
+2020-11-29 14:21:23,837 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 4 prepared
+2020-11-29 14:21:23,837 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 5 prepared
+2020-11-29 14:21:23,837 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:122) - Connections for connection pool were successfully prepared
+2020-11-29 14:21:23,838 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:21:23,844 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 14:21:23,845 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:21:23,845 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 3 connections remains in the pool
+2020-11-29 14:21:23,846 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:21:23,846 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 2 connections remains in the pool
+2020-11-29 14:21:23,846 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:21:23,846 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 1 connections remains in the pool
+2020-11-29 14:21:23,847 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:21:23,847 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 0 connections remains in the pool
+2020-11-29 14:22:06,765 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:113) - Preparing connections for connection pool
+2020-11-29 14:22:06,973 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 1 prepared
+2020-11-29 14:22:06,973 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 2 prepared
+2020-11-29 14:22:06,974 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 3 prepared
+2020-11-29 14:22:06,974 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 4 prepared
+2020-11-29 14:22:06,975 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 5 prepared
+2020-11-29 14:22:06,975 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:122) - Connections for connection pool were successfully prepared
+2020-11-29 14:22:06,975 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:22:06,982 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 14:22:10,102 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:22:10,104 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 3 connections remains in the pool
+2020-11-29 14:22:12,081 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:22:12,083 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 2 connections remains in the pool
+2020-11-29 14:22:13,334 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:22:13,334 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 1 connections remains in the pool
+2020-11-29 14:22:19,702 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:22:23,630 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 0 connections remains in the pool
+2020-11-29 14:23:21,252 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:113) - Preparing connections for connection pool
+2020-11-29 14:23:21,450 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 1 prepared
+2020-11-29 14:23:21,450 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 2 prepared
+2020-11-29 14:23:21,451 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 3 prepared
+2020-11-29 14:23:21,451 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 4 prepared
+2020-11-29 14:23:21,452 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 5 prepared
+2020-11-29 14:23:21,452 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:122) - Connections for connection pool were successfully prepared
+2020-11-29 14:23:21,452 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:23:21,459 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 14:23:24,927 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:23:24,928 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 3 connections remains in the pool
+2020-11-29 14:23:26,384 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:23:26,385 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 2 connections remains in the pool
+2020-11-29 14:23:27,838 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:23:27,839 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 1 connections remains in the pool
+2020-11-29 14:23:30,149 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:23:30,150 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 0 connections remains in the pool
+2020-11-29 14:25:05,564 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:113) - Preparing connections for connection pool
+2020-11-29 14:25:06,076 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 1 prepared
+2020-11-29 14:25:06,078 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 2 prepared
+2020-11-29 14:25:06,080 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 3 prepared
+2020-11-29 14:25:06,082 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 4 prepared
+2020-11-29 14:25:06,084 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 5 prepared
+2020-11-29 14:25:06,084 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:122) - Connections for connection pool were successfully prepared
+2020-11-29 14:25:19,256 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:25:24,538 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 14:25:27,432 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:25:27,433 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 3 connections remains in the pool
+2020-11-29 14:25:29,761 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:25:29,762 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 2 connections remains in the pool
+2020-11-29 14:25:32,170 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:25:32,171 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 1 connections remains in the pool
+2020-11-29 14:25:47,577 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:25:47,578 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 0 connections remains in the pool
+2020-11-29 14:26:09,060 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:113) - Preparing connections for connection pool
+2020-11-29 14:26:09,259 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 1 prepared
+2020-11-29 14:26:09,259 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 2 prepared
+2020-11-29 14:26:09,260 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 3 prepared
+2020-11-29 14:26:09,260 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 4 prepared
+2020-11-29 14:26:09,260 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:119) - Connection number 5 prepared
+2020-11-29 14:26:09,261 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:122) - Connections for connection pool were successfully prepared
+2020-11-29 14:26:09,261 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:26:09,268 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 14:26:11,174 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:26:11,175 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 3 connections remains in the pool
+2020-11-29 14:26:12,346 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:26:12,346 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 2 connections remains in the pool
+2020-11-29 14:26:13,981 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:26:13,981 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 1 connections remains in the pool
+2020-11-29 14:26:20,429 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:85) - Validating acquired connection
+2020-11-29 14:26:20,430 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:69) - Connection is valid and was taken from the pool, 0 connections remains in the pool
+2020-11-29 14:26:47,343 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:55) - No available connection in the pool, waiting 2 seconds for connection becoming available
+2020-11-29 14:35:19,030 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Preparing connections for connection pool
+2020-11-29 14:35:19,204 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 1 prepared
+2020-11-29 14:35:19,206 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 2 prepared
+2020-11-29 14:35:19,206 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 3 prepared
+2020-11-29 14:35:19,207 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 4 prepared
+2020-11-29 14:35:19,208 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 5 prepared
+2020-11-29 14:35:19,209 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:121) - Connections for connection pool were successfully prepared
+2020-11-29 14:35:19,209 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 14:35:19,220 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 14:35:19,220 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 14:35:19,221 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 3 connections remains in the pool
+2020-11-29 14:35:19,221 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 14:35:19,222 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 2 connections remains in the pool
+2020-11-29 14:35:19,222 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 14:35:19,223 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 1 connections remains in the pool
+2020-11-29 14:35:19,223 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 14:35:19,223 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 0 connections remains in the pool
+2020-11-29 14:35:19,224 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:54) - No available connection in the pool, waiting 2 seconds for connection becoming available
+2020-11-29 14:39:23,756 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Preparing connections for connection pool
+2020-11-29 14:39:23,945 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 1 prepared
+2020-11-29 14:39:23,946 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 2 prepared
+2020-11-29 14:39:23,946 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 3 prepared
+2020-11-29 14:39:23,947 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 4 prepared
+2020-11-29 14:39:23,947 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 5 prepared
+2020-11-29 14:39:23,947 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:121) - Connections for connection pool were successfully prepared
+2020-11-29 14:39:23,948 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 14:39:23,954 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 14:39:23,955 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 14:39:23,955 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 3 connections remains in the pool
+2020-11-29 14:39:23,955 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 14:39:23,956 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 2 connections remains in the pool
+2020-11-29 14:39:23,956 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 14:39:23,957 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 1 connections remains in the pool
+2020-11-29 14:39:23,957 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 14:39:23,957 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 0 connections remains in the pool
+2020-11-29 14:39:23,958 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:54) - No available connection in the pool, waiting 2 seconds for connection becoming available
+2020-11-29 14:39:58,735 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Preparing connections for connection pool
+2020-11-29 14:39:58,942 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 1 prepared
+2020-11-29 14:39:58,981 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 2 prepared
+2020-11-29 14:39:59,021 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 3 prepared
+2020-11-29 14:39:59,067 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 4 prepared
+2020-11-29 14:39:59,109 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 5 prepared
+2020-11-29 14:39:59,109 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:121) - Connections for connection pool were successfully prepared
+2020-11-29 14:39:59,110 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 14:39:59,119 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 14:39:59,119 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Preparing connections for connection pool
+2020-11-29 14:39:59,241 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 1 prepared
+2020-11-29 14:39:59,242 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 2 prepared
+2020-11-29 14:39:59,242 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 3 prepared
+2020-11-29 14:39:59,243 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 4 prepared
+2020-11-29 14:39:59,243 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 5 prepared
+2020-11-29 14:39:59,244 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:121) - Connections for connection pool were successfully prepared
+2020-11-29 14:39:59,244 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 14:39:59,251 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 14:40:08,514 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Active connection pool is invalid
+2020-11-29 14:44:46,133 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Preparing connections for connection pool
+2020-11-29 14:44:46,301 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 1 prepared
+2020-11-29 14:44:46,302 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 2 prepared
+2020-11-29 14:44:46,302 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 3 prepared
+2020-11-29 14:44:46,303 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 4 prepared
+2020-11-29 14:44:46,303 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 5 prepared
+2020-11-29 14:44:46,304 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:121) - Connections for connection pool were successfully prepared
+2020-11-29 14:44:46,304 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 14:44:46,310 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 14:44:46,311 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 14:44:46,311 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 3 connections remains in the pool
+2020-11-29 14:44:46,311 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 14:44:46,312 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 2 connections remains in the pool
+2020-11-29 14:44:46,312 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 14:44:46,313 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 1 connections remains in the pool
+2020-11-29 14:44:46,313 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 14:44:46,313 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 0 connections remains in the pool
+2020-11-29 14:44:46,313 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:54) - No available connection in the pool, waiting 2 seconds for connection becoming available
+2020-11-29 14:50:51,730 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Active connection pool is invalid
+2020-11-29 14:57:52,594 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Active connection pool is invalid
+2020-11-29 14:58:14,180 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Active connection pool is invalid
+2020-11-29 15:04:51,935 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Active connection pool is invalid
+2020-11-29 15:04:51,950 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:76) - Failover mode is active, switching to secondary connection pool
+2020-11-29 15:14:37,011 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Active connection pool is invalid
+2020-11-29 15:14:37,017 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:76) - Failover mode is active, switching to secondary connection pool
+2020-11-29 15:19:40,763 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Active connection pool is invalid
+2020-11-29 15:19:40,770 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:76) - Failover mode is active, switching to secondary connection pool
+2020-11-29 15:20:27,030 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Active connection pool is invalid
+2020-11-29 15:20:35,940 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:76) - Failover mode is active, switching to secondary connection pool
+2020-11-29 15:21:38,106 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Active connection pool is invalid
+2020-11-29 15:21:38,115 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:76) - Failover mode is active, switching to secondary connection pool
+2020-11-29 15:21:38,117 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Active connection pool is invalid
+2020-11-29 15:21:38,117 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:76) - Failover mode is active, switching to secondary connection pool
+2020-11-29 15:21:47,409 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Active connection pool is invalid
+2020-11-29 15:21:47,415 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:76) - Failover mode is active, switching to secondary connection pool
+2020-11-29 15:21:47,416 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Active connection pool is invalid
+2020-11-29 15:21:47,416 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:76) - Failover mode is active, switching to secondary connection pool
+2020-11-29 15:22:54,236 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Active connection pool is invalid
+2020-11-29 15:22:54,241 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:76) - Failover mode is active, switching to secondary connection pool
+2020-11-29 15:22:54,242 INFO  [main] dbmanagement.ConnectionManager (ConnectionManager.java:113) - Primary pool is active again, failover mode deactivated
+2020-11-29 15:22:54,242 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Active connection pool is invalid
+2020-11-29 15:22:54,243 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:76) - Failover mode is active, switching to secondary connection pool
+2020-11-29 15:23:38,137 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Active connection pool is invalid
+2020-11-29 15:23:38,143 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:76) - Failover mode is active, switching to secondary connection pool
+2020-11-29 15:23:38,144 INFO  [main] dbmanagement.ConnectionManager (ConnectionManager.java:113) - Primary pool is active again, failover mode deactivated
+2020-11-29 15:23:38,144 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Active connection pool is invalid
+2020-11-29 15:23:38,145 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:76) - Failover mode is active, switching to secondary connection pool
+2020-11-29 15:24:46,596 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Active connection pool is invalid
+2020-11-29 15:24:46,601 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:76) - Failover mode is active, switching to secondary connection pool
+2020-11-29 15:24:46,603 INFO  [main] dbmanagement.ConnectionManager (ConnectionManager.java:113) - Primary pool is active again, failover mode deactivated
+2020-11-29 15:24:46,603 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Active connection pool is invalid
+2020-11-29 15:24:46,603 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:76) - Failover mode is active, switching to secondary connection pool
+2020-11-29 15:30:17,904 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Preparing connections for connection pool
+2020-11-29 15:30:18,078 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 1 prepared
+2020-11-29 15:30:18,078 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 2 prepared
+2020-11-29 15:30:18,079 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 3 prepared
+2020-11-29 15:30:18,079 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 4 prepared
+2020-11-29 15:30:18,079 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 5 prepared
+2020-11-29 15:30:18,080 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:121) - Connections for connection pool were successfully prepared
+2020-11-29 15:30:18,080 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 15:30:18,086 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 15:30:18,087 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 15:30:18,087 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 3 connections remains in the pool
+2020-11-29 15:30:18,088 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 15:30:18,088 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 2 connections remains in the pool
+2020-11-29 15:30:18,088 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 15:30:18,089 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 1 connections remains in the pool
+2020-11-29 15:30:18,089 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 15:30:18,089 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 0 connections remains in the pool
+2020-11-29 15:30:18,090 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:54) - No available connection in the pool, waiting 2 seconds for connection becoming available
+2020-11-29 15:30:29,600 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Preparing connections for connection pool
+2020-11-29 15:30:29,781 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 1 prepared
+2020-11-29 15:30:29,817 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 2 prepared
+2020-11-29 15:30:29,854 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 3 prepared
+2020-11-29 15:30:29,893 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 4 prepared
+2020-11-29 15:30:29,940 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 5 prepared
+2020-11-29 15:30:29,940 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:121) - Connections for connection pool were successfully prepared
+2020-11-29 15:30:29,941 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 15:30:29,949 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 15:30:29,949 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Preparing connections for connection pool
+2020-11-29 15:30:30,092 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 1 prepared
+2020-11-29 15:30:30,092 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 2 prepared
+2020-11-29 15:30:30,093 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 3 prepared
+2020-11-29 15:30:30,093 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 4 prepared
+2020-11-29 15:30:30,093 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 5 prepared
+2020-11-29 15:30:30,094 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:121) - Connections for connection pool were successfully prepared
+2020-11-29 15:30:30,094 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 15:30:30,105 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 15:34:24,954 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Active connection pool is invalid
+2020-11-29 15:34:24,960 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:76) - Failover mode is active, switching to secondary connection pool
+2020-11-29 15:34:24,962 INFO  [main] dbmanagement.ConnectionManager (ConnectionManager.java:113) - Primary pool is active again, failover mode deactivated
+2020-11-29 15:34:24,962 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Active connection pool is invalid
+2020-11-29 15:34:24,962 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:76) - Failover mode is active, switching to secondary connection pool
+2020-11-29 15:34:24,963 INFO  [main] dbmanagement.ConnectionManager (ConnectionManager.java:113) - Primary pool is active again, failover mode deactivated
+2020-11-29 15:34:24,963 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:67) - Active connection pool is invalid
+2020-11-29 15:34:24,964 WARN  [main] dbmanagement.ConnectionManager (ConnectionManager.java:76) - Failover mode is active, switching to secondary connection pool
+2020-11-29 15:34:24,965 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Preparing connections for connection pool
+2020-11-29 15:34:25,167 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 1 prepared
+2020-11-29 15:34:25,168 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 2 prepared
+2020-11-29 15:34:25,169 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 3 prepared
+2020-11-29 15:34:25,170 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 4 prepared
+2020-11-29 15:34:25,172 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 5 prepared
+2020-11-29 15:34:25,172 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:121) - Connections for connection pool were successfully prepared
+2020-11-29 15:34:25,173 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 15:34:25,182 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 15:34:25,183 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 15:34:25,183 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 3 connections remains in the pool
+2020-11-29 15:34:25,183 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 15:34:25,184 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 2 connections remains in the pool
+2020-11-29 15:34:25,184 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 15:34:25,185 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 1 connections remains in the pool
+2020-11-29 15:34:25,185 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 15:34:25,186 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 0 connections remains in the pool
+2020-11-29 15:34:25,186 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:54) - No available connection in the pool, waiting 2 seconds for connection becoming available
+2020-11-29 15:34:28,200 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Preparing connections for connection pool
+2020-11-29 15:34:28,310 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 1 prepared
+2020-11-29 15:34:28,346 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 2 prepared
+2020-11-29 15:34:28,381 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 3 prepared
+2020-11-29 15:34:28,419 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 4 prepared
+2020-11-29 15:34:28,456 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 5 prepared
+2020-11-29 15:34:28,457 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:121) - Connections for connection pool were successfully prepared
+2020-11-29 15:34:28,457 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 15:34:28,465 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 15:34:28,465 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:112) - Preparing connections for connection pool
+2020-11-29 15:34:28,466 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 1 prepared
+2020-11-29 15:34:28,467 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 2 prepared
+2020-11-29 15:34:28,467 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 3 prepared
+2020-11-29 15:34:28,467 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 4 prepared
+2020-11-29 15:34:28,468 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:118) - Connection number 5 prepared
+2020-11-29 15:34:28,468 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:121) - Connections for connection pool were successfully prepared
+2020-11-29 15:34:28,468 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:84) - Validating acquired connection
+2020-11-29 15:34:28,468 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 17:49:30,891 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:111) - Preparing connections for connection pool
+2020-11-29 17:49:31,229 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:117) - Connection number 1 prepared
+2020-11-29 17:49:31,340 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:117) - Connection number 2 prepared
+2020-11-29 17:49:31,419 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:117) - Connection number 3 prepared
+2020-11-29 17:49:31,475 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:117) - Connection number 4 prepared
+2020-11-29 17:49:31,533 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:117) - Connection number 5 prepared
+2020-11-29 17:49:31,533 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:120) - Connections for connection pool were successfully prepared
+2020-11-29 17:49:31,534 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:83) - Validating acquired connection
+2020-11-29 17:49:31,546 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 4 connections remains in the pool
+2020-11-29 17:49:31,547 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:111) - Preparing connections for connection pool
+2020-11-29 17:49:34,953 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:117) - Connection number 1 prepared
+2020-11-29 17:49:35,007 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:117) - Connection number 2 prepared
+2020-11-29 17:49:35,061 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:117) - Connection number 3 prepared
+2020-11-29 17:49:35,111 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:117) - Connection number 4 prepared
+2020-11-29 17:49:35,181 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:117) - Connection number 5 prepared
+2020-11-29 17:49:35,181 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:120) - Connections for connection pool were successfully prepared
+2020-11-29 17:49:35,182 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:83) - Validating acquired connection
+2020-11-29 17:49:35,184 INFO  [main] dbmanagement.ConnectionPool (ConnectionPool.java:68) - Connection is valid and was taken from the pool, 4 connections remains in the pool
