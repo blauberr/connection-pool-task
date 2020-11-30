@@ -11,6 +11,7 @@
 - all logs are stored in both files
 - ElasticSearch is added with ELK stack, which uses docker-compose.yml for all the configuration
 - Kibana is accessed via localhost:5601 (can be changed in docker-compose.yml file) where log files can be imported for fulltext search
+- [Pros and Cons](https://github.com/blauberr/connection-pool-task/blob/master/Pros%20and%20Cons.pdf) of implemented full-text search
 
 To start ELK: 
 - run Shell in project directory
