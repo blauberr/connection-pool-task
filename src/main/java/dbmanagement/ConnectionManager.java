@@ -7,6 +7,7 @@ import org.apache.logging.log4j.Logger;
 
 import java.sql.Connection;
 import java.sql.SQLException;
+
 import static dbmanagement.DbConstants.*;
 
 public class ConnectionManager {
@@ -69,8 +70,7 @@ public class ConnectionManager {
 
         if (connection != null) {
             return connection;
-        }
-        else {
+        } else {
             isFailoverMode = true;
             activeConnectionPool = secondaryConnectionPool;
             log.warn("Failover mode is active, switching to secondary connection pool");
@@ -89,12 +89,10 @@ public class ConnectionManager {
             if (connection.getMetaData().getURL().equals(primaryUrl)) {
                 primaryConnectionPool.returnConnection(connection);
                 log.info("Connection successfully returned to primary connection pool");
-            }
-            else if (connection.getMetaData().getURL().equals(secondaryUrl)) {
+            } else if (connection.getMetaData().getURL().equals(secondaryUrl)) {
                 secondaryConnectionPool.returnConnection(connection);
                 log.info("Connection successfully returned to primary connection pool");
-            }
-            else {
+            } else {
                 throw new IllegalStateException("Unknown URL");
             }
         } catch (SQLException e) {

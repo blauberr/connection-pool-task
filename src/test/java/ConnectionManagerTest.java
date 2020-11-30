@@ -6,7 +6,6 @@ import org.junit.Test;
 import org.mockito.Mockito;
 
 import java.sql.Connection;
-import java.sql.SQLException;
 
 public class ConnectionManagerTest {
 
@@ -50,6 +49,6 @@ public class ConnectionManagerTest {
 
         Mockito.when(secondaryPoolMock.getConnection()).thenReturn(validPrimaryConnectionMock);
         Connection primCon = connectionManager.getConnection();
-        Assert.assertEquals(primCon,validPrimaryConnectionMock);
+        Assert.assertEquals(primCon, validPrimaryConnectionMock);
     }
 }

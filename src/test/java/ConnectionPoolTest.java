@@ -1,13 +1,8 @@
-import dbmanagement.ConnectionManager;
 import dbmanagement.ConnectionPool;
-import dbmanagement.exceptions.ConnectionIsInvalidException;
 import dbmanagement.exceptions.OutOfConnectionsException;
-import org.junit.Assert;
 import org.junit.Test;
-import org.mockito.Mockito;
 
 import java.sql.Connection;
-import java.sql.SQLException;
 
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertThrows;
