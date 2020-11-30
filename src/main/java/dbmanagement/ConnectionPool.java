@@ -59,7 +59,10 @@ public class ConnectionPool {
 
             connection = tryToAcquireConnection();
 
-            if (connection == null) throw new OutOfConnectionsException();
+            if (connection == null) {
+                log.warn("No available connections in the pool");
+                throw new OutOfConnectionsException();
+            }
         }
 
         boolean connectionIsValid = validateConnection(connection);
